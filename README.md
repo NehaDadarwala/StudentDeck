@@ -6,7 +6,7 @@
 * MySQL Workbench
 * Bootstrap
 
-## Design Patterns ##
+## Design Patterns Used ##
 
 * Abstract Factory method
 * Factory Method
